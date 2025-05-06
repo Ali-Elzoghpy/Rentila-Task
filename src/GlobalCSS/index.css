@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@100;200;300;400;500;600;700;800;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+body {
+  font-family: sans-serif;
+  @apply   bg-[#f9f9f] dark:bg-[#1e1e1e24]
+}
+/* applys */
+.row {
+  @apply flex flex-wrap items-center;
+}
+
+.btn {
+  @apply py-1 px-2 border-0 bg-mainColor text-white hover:bg-opacity-85 rounded-md;
+}
+
+.loader {
+  width: 48px;
+  height: 48px;
+  border: 5px solid #71a133;
+  border-bottom-color: transparent;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+.sidBar-container .css-dip3t8 {
+  @apply !bg-[#eeeeee]  dark:!bg-[#888] 
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.css-1wvake5  {
+  border: none !important;
+}
+.sidBar-container .ps-menu-button:hover {
+  @apply !bg-[#33b5e5] !text-white dark:!bg-[#33b6e565];
+}
+.sidBar-container .logo .ps-menu-button:hover {
+  background-color: transparent !important;
+  border-left: none !important;
+}
+
+.w-logo {
+  width: 130px;
+}
+
+input[type="radio"] {
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  outline: none;
+  background-color: white;
+  cursor: pointer;
+  position: relative;
+  border: 0.2px solid rgba(0, 0, 0, 0.3);
+}
+input[type="radio"]:checked {
+  background-color: #71a133;
+}
+input[type="radio"]::after {
+  content: "";
+  background-color: white;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  top: 3.5px;
+  right: 3.6px;
+  border-radius: 50%;
+}

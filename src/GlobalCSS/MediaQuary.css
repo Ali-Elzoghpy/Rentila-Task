@@ -1,0 +1,19 @@
+@media (min-width: 576px) {
+
+}
+
+@media (min-width: 768px) {
+  .table-responsive {
+    max-height: 60vh;
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+}

@@ -1,0 +1,663 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Building A",
+      "address": "Downtown Cairo",
+      "rentAmount": 12000,
+      "tenants": [
+        101,
+        102
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Building A",
+      "address": "Downtown Cairo",
+      "rentAmount": 12000,
+      "tenants": [
+        101,
+        102
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Building A",
+      "address": "Downtown Cairo",
+      "rentAmount": 12000,
+      "tenants": [
+        101,
+        102
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Building B",
+      "address": "Alexandria",
+      "rentAmount": 9000,
+      "tenants": [
+        103
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Building C",
+      "address": "6 October",
+      "rentAmount": 11000,
+      "tenants": [
+        104
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Building C",
+      "address": "6 October",
+      "rentAmount": 11000,
+      "tenants": [
+        104
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Golden Sands Residence",
+      "address": "6 October, Beverly Hills",
+      "rentAmount": 12500,
+      "tenants": [
+        105
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tech Valley Apartments",
+      "address": "6 October, Smart Village",
+      "rentAmount": 13500,
+      "tenants": [
+        106
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Green Oasis Plaza",
+      "address": "6 October, Central Park",
+      "rentAmount": 11800,
+      "tenants": [
+        107
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Moonlight Gardens",
+      "address": "6 October, Dreamland",
+      "rentAmount": 12700,
+      "tenants": [
+        108
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Diamond Business Hub",
+      "address": "6 October, Financial District",
+      "rentAmount": 14200,
+      "tenants": [
+        109
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Family Nest Complex",
+      "address": "6 October, Harmony Zone",
+      "rentAmount": 10800,
+      "tenants": [
+        110
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Student Living Quarters",
+      "address": "6 October, University Road",
+      "rentAmount": 9500,
+      "tenants": [
+        111
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Executive Suites",
+      "address": "6 October, Corporate Avenue",
+      "rentAmount": 15500,
+      "tenants": [
+        112
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Artistic Lofts",
+      "address": "6 October, Creative Sector",
+      "rentAmount": 13200,
+      "tenants": [
+        113
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Nile View Residences",
+      "address": "6 October, Waterfront District",
+      "rentAmount": 16000,
+      "tenants": [
+        114
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Silicon Plaza",
+      "address": "6 October, Tech Park",
+      "rentAmount": 14500,
+      "tenants": [
+        115
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Golf Panorama",
+      "address": "6 October, Greenside",
+      "rentAmount": 17500,
+      "tenants": [
+        116
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Medical Professionals Tower",
+      "address": "6 October, Healthcare Zone",
+      "rentAmount": 13800,
+      "tenants": [
+        117
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Desert Bloom Villas",
+      "address": "6 October, Oasis Sector",
+      "rentAmount": 18500,
+      "tenants": [
+        118
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Startup Lofts",
+      "address": "6 October, Innovation Hub",
+      "rentAmount": 12500,
+      "tenants": [
+        119
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Prestige Heights",
+      "address": "6 October, Elite District",
+      "rentAmount": 19500,
+      "tenants": [
+        120
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Family Garden Complex",
+      "address": "6 October, Kidzville",
+      "rentAmount": 12800,
+      "tenants": [
+        121
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Cultural Exchange Apartments",
+      "address": "6 October, Diplomatic Quarter",
+      "rentAmount": 14200,
+      "tenants": [
+        122
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Sports Enthusiasts Residence",
+      "address": "6 October, Champions Avenue",
+      "rentAmount": 13500,
+      "tenants": [
+        123
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Eco Living Spaces",
+      "address": "6 October, Green Valley",
+      "rentAmount": 14800,
+      "tenants": [
+        124
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Retirement Oasis",
+      "address": "6 October, Golden Years Community",
+      "rentAmount": 11800,
+      "tenants": [
+        125
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Aviation Crew Quarters",
+      "address": "6 October, Airport Access Road",
+      "rentAmount": 15500,
+      "tenants": [
+        126
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Artisan Collective",
+      "address": "6 October, Craftsmen Alley",
+      "rentAmount": 13200,
+      "tenants": [
+        127
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Luxury Penthouse Suites",
+      "address": "6 October, Skyline Towers",
+      "rentAmount": 21000,
+      "tenants": [
+        128
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Budget Student Hostels",
+      "address": "6 October, Campus Road",
+      "rentAmount": 8800,
+      "tenants": [
+        129
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Executive Short-Stay Apartments",
+      "address": "6 October, Business Transit Zone",
+      "rentAmount": 16800,
+      "tenants": [
+        130
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Pet-Friendly Community",
+      "address": "6 October, Animal Lovers Lane",
+      "rentAmount": 14200,
+      "tenants": [
+        131
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Fitness Enthusiasts Hub",
+      "address": "6 October, Wellness District",
+      "rentAmount": 15200,
+      "tenants": [
+        132
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Nightlife Access Lofts",
+      "address": "6 October, Entertainment Strip",
+      "rentAmount": 16500,
+      "tenants": [
+        133
+      ]
+    }
+  ],
+  "pagination": {
+    "totalItems": 33,
+    "itemsPerPage": 10,
+    "totalPages": 4,
+    "currentPage": 1
+  },
+  "tenants": [
+    {
+      "job": "Engggg",
+      "name": "Alisss",
+      "age": "40",
+      "leaseEnd": "22/02/2002",
+      "leaseStart": "22/02/2001",
+      "maritalStatus": "Single",
+      "rentStatus": "Paid",
+      "id": 103
+    },
+    {
+      "id": 104,
+      "name": "Salma Adel",
+      "age": 25,
+      "job": "Student",
+      "maritalStatus": "Single",
+      "propertyId": 3,
+      "leaseStart": "2024-01-01",
+      "leaseEnd": "2025-01-01",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 105,
+      "name": "Ahmed Mohsen",
+      "age": 30,
+      "job": "Engineer",
+      "maritalStatus": "Married",
+      "propertyId": 5,
+      "leaseStart": "2024-02-15",
+      "leaseEnd": "2025-02-15",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 106,
+      "name": "Lina Kamal",
+      "age": 28,
+      "job": "Doctor",
+      "maritalStatus": "Single",
+      "propertyId": 2,
+      "leaseStart": "2023-11-01",
+      "leaseEnd": "2024-11-01",
+      "rentStatus": "Paid"
+    },
+    {
+      "job": "Engggg",
+      "name": "Ali",
+      "rentStatus": "Unpaid",
+      "id": 107
+    },
+    {
+      "id": 108,
+      "name": "Nada Walid",
+      "age": 22,
+      "job": "Student",
+      "maritalStatus": "Single",
+      "propertyId": 1,
+      "leaseStart": "2024-01-20",
+      "leaseEnd": "2025-01-20",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 109,
+      "name": "Karim Adel",
+      "age": 40,
+      "job": "Lawyer",
+      "maritalStatus": "Married",
+      "propertyId": 4,
+      "leaseStart": "2023-12-05",
+      "leaseEnd": "2024-12-05",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 110,
+      "name": "Yara Hani",
+      "age": 27,
+      "job": "Designer",
+      "maritalStatus": "Single",
+      "propertyId": 6,
+      "leaseStart": "2024-04-01",
+      "leaseEnd": "2025-04-01",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 111,
+      "name": "Tarek Samy",
+      "age": 33,
+      "job": "Accountant",
+      "maritalStatus": "Married",
+      "propertyId": 8,
+      "leaseStart": "2024-05-12",
+      "leaseEnd": "2025-05-12",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "job": "EnG",
+      "name": "Ali",
+      "age": "40",
+      "leaseEnd": "22/02/2002",
+      "leaseStart": "22/02/2001",
+      "maritalStatus": "Divorced",
+      "rentStatus": "Paid",
+      "id": 112
+    },
+    {
+      "id": 113,
+      "name": "Waleed Rami",
+      "age": 45,
+      "job": "Manager",
+      "maritalStatus": "Married",
+      "propertyId": 10,
+      "leaseStart": "2024-06-20",
+      "leaseEnd": "2025-06-20",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 114,
+      "name": "Dina Atef",
+      "age": 26,
+      "job": "Journalist",
+      "maritalStatus": "Single",
+      "propertyId": 11,
+      "leaseStart": "2024-07-01",
+      "leaseEnd": "2025-07-01",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 115,
+      "name": "Youssef Nabil",
+      "age": 31,
+      "job": "Architect",
+      "maritalStatus": "Single",
+      "propertyId": 12,
+      "leaseStart": "2024-03-15",
+      "leaseEnd": "2025-03-15",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 116,
+      "name": "Farida Hosny",
+      "age": 38,
+      "job": "Professor",
+      "maritalStatus": "Married",
+      "propertyId": 13,
+      "leaseStart": "2023-09-10",
+      "leaseEnd": "2024-09-10",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 117,
+      "name": "Khaled Samir",
+      "age": 42,
+      "job": "Business Owner",
+      "maritalStatus": "Divorced",
+      "propertyId": 14,
+      "leaseStart": "2024-02-01",
+      "leaseEnd": "2025-02-01",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 118,
+      "name": "Mona Gamal",
+      "age": 24,
+      "job": "Graphic Designer",
+      "maritalStatus": "Single",
+      "propertyId": 15,
+      "leaseStart": "2024-05-01",
+      "leaseEnd": "2025-05-01",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 119,
+      "name": "Adel Hassan",
+      "age": 50,
+      "job": "Retired",
+      "maritalStatus": "Widowed",
+      "propertyId": 16,
+      "leaseStart": "2023-12-01",
+      "leaseEnd": "2024-12-01",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 120,
+      "name": "Samira Nour",
+      "age": 36,
+      "job": "Marketing Manager",
+      "maritalStatus": "Single",
+      "propertyId": 17,
+      "leaseStart": "2024-04-15",
+      "leaseEnd": "2025-04-15",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 121,
+      "name": "Hassan Mahmoud",
+      "age": 28,
+      "job": "Software Developer",
+      "maritalStatus": "Single",
+      "propertyId": 18,
+      "leaseStart": "2024-01-10",
+      "leaseEnd": "2025-01-10",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 122,
+      "name": "Nourhan Sherif",
+      "age": 32,
+      "job": "Dentist",
+      "maritalStatus": "Married",
+      "propertyId": 19,
+      "leaseStart": "2023-11-20",
+      "leaseEnd": "2024-11-20",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 123,
+      "name": "Ramy Adel",
+      "age": 41,
+      "job": "Pilot",
+      "maritalStatus": "Married",
+      "propertyId": 20,
+      "leaseStart": "2024-06-01",
+      "leaseEnd": "2025-06-01",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 124,
+      "name": "Sara Magdy",
+      "age": 23,
+      "job": "Content Writer",
+      "maritalStatus": "Single",
+      "propertyId": 21,
+      "leaseStart": "2024-03-01",
+      "leaseEnd": "2025-03-01",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 125,
+      "name": "Kareem Fawzy",
+      "age": 34,
+      "job": "Financial Analyst",
+      "maritalStatus": "Single",
+      "propertyId": 22,
+      "leaseStart": "2023-10-01",
+      "leaseEnd": "2024-10-01",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 126,
+      "name": "Aya Mostafa",
+      "age": 27,
+      "job": "HR Specialist",
+      "maritalStatus": "Single",
+      "propertyId": 23,
+      "leaseStart": "2024-05-20",
+      "leaseEnd": "2025-05-20",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 127,
+      "name": "Tamer Naguib",
+      "age": 39,
+      "job": "Sales Director",
+      "maritalStatus": "Married",
+      "propertyId": 24,
+      "leaseStart": "2024-02-10",
+      "leaseEnd": "2025-02-10",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 128,
+      "name": "Dalia Wael",
+      "age": 31,
+      "job": "Interior Designer",
+      "maritalStatus": "Single",
+      "propertyId": 25,
+      "leaseStart": "2023-12-15",
+      "leaseEnd": "2024-12-15",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 129,
+      "name": "Fady Hisham",
+      "age": 26,
+      "job": "Photographer",
+      "maritalStatus": "Single",
+      "propertyId": 26,
+      "leaseStart": "2024-04-05",
+      "leaseEnd": "2025-04-05",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 130,
+      "name": "Heba Karam",
+      "age": 37,
+      "job": "Pharmacist",
+      "maritalStatus": "Married",
+      "propertyId": 27,
+      "leaseStart": "2023-09-01",
+      "leaseEnd": "2024-09-01",
+      "rentStatus": "Paid"
+    },
+    {
+      "id": 131,
+      "name": "Sherif Omar",
+      "age": 44,
+      "job": "Civil Engineer",
+      "maritalStatus": "Divorced",
+      "propertyId": 28,
+      "leaseStart": "2024-01-05",
+      "leaseEnd": "2025-01-05",
+      "rentStatus": "Unpaid"
+    },
+    {
+      "id": 132,
+      "name": "Yasmine Ashraf",
+      "age": 29,
+      "job": "Event Planner",
+      "maritalStatus": "Single",
+      "propertyId": 29,
+      "leaseStart": "2024-07-15",
+      "leaseEnd": "2025-07-15",
+      "rentStatus": "Paid"
+    },
+    {
+      "job": "Engggg",
+      "name": "aliiii",
+      "age": "23",
+      "leaseEnd": "22/02/2002",
+      "leaseStart": "22/02/2002",
+      "maritalStatus": "Single",
+      "rentStatus": "Unpaid",
+      "id": 133
+    }
+  ]
+}
